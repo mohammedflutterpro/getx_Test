@@ -21,7 +21,7 @@ class HomeScreen extends StatelessWidget {
           children: [
             Center(
               child: MaterialButton(
-                color: Colors.red,
+                color: Colors.black,
                 textColor: Colors.white,
                 onPressed: () {
                   Get.to(LoginScreen());
